@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\Week5Task\BugFix\bin\Debug\netcoreapp3.1\BugFix.exe
+C:\Users\opilane\source\repos\Week5Task\BugFix\bin\Debug\netcoreapp3.1\BugFix.deps.json
+C:\Users\opilane\source\repos\Week5Task\BugFix\bin\Debug\netcoreapp3.1\BugFix.runtimeconfig.json
+C:\Users\opilane\source\repos\Week5Task\BugFix\bin\Debug\netcoreapp3.1\BugFix.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Week5Task\BugFix\bin\Debug\netcoreapp3.1\BugFix.dll
+C:\Users\opilane\source\repos\Week5Task\BugFix\bin\Debug\netcoreapp3.1\BugFix.pdb
+C:\Users\opilane\source\repos\Week5Task\BugFix\obj\Debug\netcoreapp3.1\BugFix.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Week5Task\BugFix\obj\Debug\netcoreapp3.1\BugFix.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Week5Task\BugFix\obj\Debug\netcoreapp3.1\BugFix.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Week5Task\BugFix\obj\Debug\netcoreapp3.1\BugFix.dll
+C:\Users\opilane\source\repos\Week5Task\BugFix\obj\Debug\netcoreapp3.1\BugFix.pdb
+C:\Users\opilane\source\repos\Week5Task\BugFix\obj\Debug\netcoreapp3.1\BugFix.genruntimeconfig.cache
